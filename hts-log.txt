@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Apr 2025 15:38:05 at https://gmag.kwst.net/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gmag.kwst.net/index.html -O1 "C:\My Web Sites\BlogWebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/img/vimeo-play.png (from https://gmag.kwst.net/css/plugins.css)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/img/video-play.png (from https://gmag.kwst.net/css/plugins.css)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/img/youtube-play.png (from https://gmag.kwst.net/css/plugins.css)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/"images/bg/7.jpg" (from https://gmag.kwst.net/blog2.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/category-single.html (from https://gmag.kwst.net/post-single2.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/post-single.html (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/13.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/author-single.html (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/avatar/1.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/29.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/avatar/2.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/28.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/avatar/3.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/17.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/avatar/4.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/27.jpg (from https://gmag.kwst.net/ajax/category1.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/34.jpg (from https://gmag.kwst.net/ajax/category2.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/2.jpg (from https://gmag.kwst.net/ajax/category2.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/35.jpg (from https://gmag.kwst.net/ajax/category2.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/26.jpg (from https://gmag.kwst.net/ajax/category3.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/31.jpg (from https://gmag.kwst.net/ajax/category3.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/23.jpg (from https://gmag.kwst.net/ajax/category3.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/25.jpg (from https://gmag.kwst.net/ajax/category3.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/30.jpg (from https://gmag.kwst.net/ajax/category4.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/15.jpg (from https://gmag.kwst.net/ajax/category4.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/37.jpg (from https://gmag.kwst.net/ajax/category4.html)
+15:38:55	Error: 	"Not Found" (404) at link https://gmag.kwst.net/ajax/images/all/38.jpg (from https://gmag.kwst.net/ajax/category4.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 159 links scanned, 131 files written (28313798 bytes overall) [21849944 bytes received at 436998 bytes/sec], 8810310 bytes transferred using HTTP compression in 34 files, ratio 25%, 39.7 requests per connection
+(27 errors, 0 warnings, 0 messages)
